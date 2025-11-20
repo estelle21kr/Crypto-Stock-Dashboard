@@ -174,34 +174,34 @@ npm run dev
 ---
 
 ## 📁 프로젝트 구조
-crypto-dashboard/
-├── app/
-│ ├── api/
-│ │ ├── auth/
-│ │ │ ├── login/route.js
-│ │ │ └── register/route.js
-│ │ ├── crypto/
-│ │ │ ├── price/route.js
-│ │ │ └── chart/route.js
-│ │ ├── stock/
-│ │ │ ├── price/route.js
-│ │ │ └── chart/route.js
-│ │ └── portfolio/route.js
-│ ├── login/
-│ │ └── page.tsx
-│ ├── page.tsx
-│ └── layout.tsx
-├── components/
-│ └── CryptoChart.tsx
-├── lib/
-│ ├── db.js
-│ └── jwt.js
-├── .env.local
-├── .gitignore
-├── package.json
-├── tsconfig.json
-└── README.md
-
+crypto-dashboard/          
+├── app/          
+│ ├── api/          
+│ │ ├── auth/          
+│ │ │ ├── login/route.js          
+│ │ │ └── register/route.js          
+│ │ ├── crypto/          
+│ │ │ ├── price/route.js          
+│ │ │ └── chart/route.js          
+│ │ ├── stock/          
+│ │ │ ├── price/route.js          
+│ │ │ └── chart/route.js          
+│ │ └── portfolio/route.js          
+│ ├── login/          
+│ │ └── page.tsx          
+│ ├── page.tsx          
+│ └── layout.tsx          
+├── components/          
+│ └── CryptoChart.tsx          
+├── lib/          
+│ ├── db.js          
+│ └── jwt.js          
+├── .env.local          
+├── .gitignore          
+├── package.json          
+├── tsconfig.json          
+└── README.md          
+          
 
 
 ---

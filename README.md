@@ -1,7 +1,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 # 💰 Crypto & Stock Portfolio Dashboard
 
